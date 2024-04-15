@@ -1,0 +1,718 @@
+repo_name: kadirbelkuyu/periodum
+report_id: 1aa5fa729bd0429e5674396f00ca0fbb
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-15T07:24:08+00:00'
+requested_by: cagrimertbakirci
+provider: github
+branch: main
+detected_tools_count: 47
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/kadirbelkuyu/periodum
+  detection_source: Repo Metadata
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: Normalize.css
+  description: A modern alternative to CSS resets
+  website_url: https://necolas.github.io/normalize.css/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/6361/default_8c8faac34fdcb5b696503f5166b5232ad0adcf6e.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: Nuxt.js
+  description: The Vue.js Framework
+  website_url: https://nuxtjs.org
+  version: 2.15.3
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/7304/23360933.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  version: 2.6.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: Sequelize
+  description: Easy-to-use multi SQL dialect ORM for Node.js
+  website_url: https://sequelize.org/
+  version: 6.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/3211/3591786.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.13.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum
+  detection_source: Repo Metadata
+- name: PM2
+  description: Ease-to-use Node.js process manager, like forever
+  website_url: https://github.com/Unitech/pm2
+  version: 4.5.5
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Node.js Process Manager
+  image_url: https://img.stackshare.io/service/2237/757747.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 1.19.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: Stylelint
+  description: A mighty, modern CSS linter
+  website_url: http://stylelint.io/
+  version: 13.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: nodemon
+  description: A simple monitor script for use during development of a node.js app
+  website_url: http://nodemon.io/
+  version: 2.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: node.js Application Monitoring
+  image_url: https://img.stackshare.io/service/5577/preview.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.21.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: mysql2
+  description: Fast mysql driver
+  package_url: https://www.npmjs.com/mysql2
+  version: 2.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16671/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+  vulnerabilities:
+  - name: mysql2 Remote Code Execution (RCE) via the readCodeFor function
+    cve_id: CVE-2024-21508
+    cve_url: https://github.com/advisories/GHSA-fpw7-j2hg-69v5
+    detected_date: Apr 13
+    severity: critical
+    first_patched: 3.9.4
+  - name: mysql2 cache poisoning vulnerability
+    cve_id: CVE-2024-21507
+    cve_url: https://github.com/advisories/GHSA-mqr2-w7wj-jjgr
+    detected_date: Apr 13
+    severity: moderate
+    first_patched: 3.9.3
+  - name: mysql2 vulnerable to Prototype Poisoning
+    cve_id: CVE-2024-21509
+    cve_url: https://github.com/advisories/GHSA-49j4-86m8-q2jw
+    detected_date: Apr 13
+    severity: moderate
+    first_patched: 3.9.4
+- name: swiper
+  description: Most modern mobile touch slider and framework with hardware accelerated
+    transitions
+  package_url: https://www.npmjs.com/swiper
+  version: 5.4.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17656/default_b06ec1ccf403dac1459596b8571a4fb6a46577e1.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in swiper
+    cve_id: CVE-2021-23370
+    cve_url: https://github.com/advisories/GHSA-p3hc-fv2j-rp68
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 6.5.1
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+  - name: Express.js Open Redirect in malformed URLs
+    cve_id: CVE-2024-29041
+    cve_url: https://github.com/advisories/GHSA-rv95-896h-c2vc
+    detected_date: Mar 26
+    severity: moderate
+    first_patched: 4.19.2
+- name: npm
+  description: A package manager for JavaScript
+  package_url: https://www.npmjs.com/npm
+  version: 7.9.0
+  license: Artistic-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16105/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+  vulnerabilities:
+  - name: Packing does not respect root-level ignore files in workspaces
+    cve_id: CVE-2022-29244
+    cve_url: https://github.com/advisories/GHSA-hj9c-8jmm-8c52
+    detected_date: Jun 3
+    severity: high
+    first_patched: 8.11.0
+- name: xlsx
+  description: SheetJS Spreadsheet data parser and writer
+  package_url: https://www.npmjs.com/xlsx
+  version: 0.16.9
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16781/default_c6eddffbed005d007ab4638fbcac90e4b79576b2.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+  vulnerabilities:
+  - name: SheetJS Regular Expression Denial of Service (ReDoS)
+    cve_id: CVE-2024-22363
+    cve_url: https://github.com/advisories/GHSA-5pgg-2g8v-p4x9
+    detected_date: Apr 9
+    severity: high
+    first_patched: 0.20.2
+  - name: Prototype Pollution in sheetJS
+    cve_id: CVE-2023-30533
+    cve_url: https://github.com/advisories/GHSA-4r6h-8v6p-xvw6
+    detected_date: Apr 25
+    severity: high
+    first_patched: 0.19.3
+  - name: Denial of Service in SheetsJS Pro
+    cve_id: CVE-2021-32013
+    cve_url: https://github.com/advisories/GHSA-8vcr-vxm8-293m
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 0.17.0
+  - name: Denial of Service in SheetJS Pro
+    cve_id: CVE-2021-32012
+    cve_url: https://github.com/advisories/GHSA-3x9f-74h4-2fqr
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 0.17.0
+  - name: Denial of Service in SheetJS Pro
+    cve_id: CVE-2021-32014
+    cve_url: https://github.com/advisories/GHSA-g973-978j-2c3p
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 0.17.0
+- name: "@commitlint/cli"
+  description: Lint your commit messages
+  package_url: https://www.npmjs.com/@commitlint/cli
+  version: 12.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16059/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: "@commitlint/config-conventional"
+  description: Shareable commitlint config enforcing conventional commits
+  package_url: https://www.npmjs.com/@commitlint/config-conventional
+  version: 12.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16092/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: babel-eslint
+  description: Custom parser for ESLint
+  package_url: https://www.npmjs.com/babel-eslint
+  version: 10.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: body-parser
+  description: Node.js body parsing middleware
+  package_url: https://www.npmjs.com/body-parser
+  version: 1.19.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: consola
+  description: Elegant Console Logger for Node.js and Browser
+  package_url: https://www.npmjs.com/consola
+  version: 2.15.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18067/image.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 2.6.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 7.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: element-ui
+  description: A Component Library for Vue.js
+  package_url: https://www.npmjs.com/element-ui
+  version: 2.15.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16240/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 8.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 3.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: eslint-plugin-vue
+  description: Official ESLint plugin for Vue.js
+  package_url: https://www.npmjs.com/eslint-plugin-vue
+  version: 7.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15950/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: fuse.js
+  description: Lightweight fuzzy-search
+  package_url: https://www.npmjs.com/fuse.js
+  version: 6.4.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17405/default_c11ea7d401c11f11d89301d0302509ab7d72e5ac.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: helmet
+  description: Help secure Express/Connect apps with various HTTP headers
+  package_url: https://www.npmjs.com/helmet
+  version: 4.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16584/default_7be6bee773ad8b04cf2fb7e9ff82f5d7ba648dfd.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 4.3.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 10.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: memory-cache
+  description: A simple in-memory cache. put
+  package_url: https://www.npmjs.com/memory-cache
+  version: 0.2.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18506/default_aabef48673d7b85e098f65ec3d0fa0b5983de6b5.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: sass-loader
+  description: Sass loader for webpack
+  package_url: https://www.npmjs.com/sass-loader
+  version: 10.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: stylelint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/stylelint-config-prettier
+  version: 8.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16896/default_e65289f03a07faa8d49ce16c483f18c4f8a98db9.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: stylelint-config-standard
+  description: Standard shareable config for stylelint
+  package_url: https://www.npmjs.com/stylelint-config-standard
+  version: 21.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16266/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://www.npmjs.com/uuid
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
+- name: vue
+  description: Vue
+  package_url: https://www.npmjs.com/vue
+  version: 2.6.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/kadirbelkuyu/periodum/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eyüp Can Akman
+  last_updated_on: 2022-01-14 01:16:52.000000000 Z
